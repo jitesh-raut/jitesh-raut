@@ -1,8 +1,8 @@
 # Jitesh Raut - Data Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/jitesh-raut/](https://www.linkedin.com/in/jiteshraut/))
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jiteshraut@outlook.com)
 [![Phone](https://img.shields.io/badge/Phone-Call-brightgreen)](tel:+918806568817)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jiteshraut/)
 
 ## Summary
 
