@@ -1,7 +1,6 @@
 # Jitesh Raut - Data Engineer
 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jiteshraut@outlook.com)
-[![Phone](https://img.shields.io/badge/Phone-Call-brightgreen)](tel:+918806568817)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jiteshraut/)
 
 ## Summary
@@ -116,13 +115,14 @@ Elasticsearch, Terraform
 
 ## Certifications
 
-- [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/29519564-6210-45cd-b57d-bc37420aaa7c)
-- [Microsoft Azure Fundamentals](https://www.credly.com/badges/08f92910-92bc-4749-b30e-2bd818a4f60f)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.credly.com/badges/2871d3aa-dfed-4e0a-bac4-de264644cb7d)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/224e2327-6039-41c4-89d8-c85275455517)
-- [Databricks Data Lakehouse Fundamentals](https://credentials.databricks.com/1828190c-8780-41ee-acd7-cf0181562c91)
-- [Generative AI Fundamentals](https://credentials.databricks.com/c58750c1-9dbe-45fb-a8fc-c47a3712787d)
-- [Databricks Data Engineer Associate](https://credentials.databricks.com/99047d9d-946a-48a3-b515-051e108b458b)
+[![Azure Data Fundamentals](https://img.shields.io/badge/Azure%20Data%20Fundamentals-View%20Badge-blue)](https://www.credly.com/badges/29519564-6210-45cd-b57d-bc37420aaa7c)
+[![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-View%20Badge-blue)](https://www.credly.com/badges/08f92910-92bc-4749-b30e-2bd818a4f60f)
+[![Azure Data Engineer Associate](https://img.shields.io/badge/Azure%20Data%20Engineer%20Associate-View%20Badge-blue)](https://www.credly.com/badges/2871d3aa-dfed-4e0a-bac4-de264644cb7d)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-View%20Badge-yellow)](https://www.credly.com/badges/224e2327-6039-41c4-89d8-c85275455517)
+[![Databricks Data Lakehouse Fundamentals](https://img.shields.io/badge/Databricks%20Data%20Lakehouse%20Fundamentals-View%20Badge-blue)](https://credentials.databricks.com/1828190c-8780-41ee-acd7-cf0181562c91)
+[![Generative AI Fundamentals](https://img.shields.io/badge/Generative%20AI%20Fundamentals-View%20Badge-blue)](https://credentials.databricks.com/c58750c1-9dbe-45fb-a8fc-c47a3712787d)
+[![Databricks Data Engineer Associate](https://img.shields.io/badge/Databricks%20Data%20Engineer%20Associate-View%20Badge-blue)](https://credentials.databricks.com/99047d9d-946a-48a3-b515-051e108b458b)
+
 
 ## Education
 
