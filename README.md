@@ -126,4 +126,8 @@ Elasticsearch, Terraform
 
 ## Education
 
-- Bachelor of Engineering in Computer Technology from KDK College of Engineering, Nagpur University (CGPA 6.91)
+**Bachelor of Engineering in Computer Technology**
+*KDK College of Engineering, Nagpur University*
+  
+![CGPA: 6.91](https://img.shields.io/badge/CGPA-6.91-brightgreen)
+
