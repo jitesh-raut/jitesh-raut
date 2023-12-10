@@ -1,7 +1,7 @@
 # Jitesh Raut - Data Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jitesh-raut/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jraut@fulztech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/jitesh-raut/](https://www.linkedin.com/in/jiteshraut/))
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jiteshraut@outlook.com)
 [![Phone](https://img.shields.io/badge/Phone-Call-brightgreen)](tel:+918806568817)
 
 ## Summary
@@ -68,7 +68,7 @@ Elasticsearch, Terraform
 
 #### Data Engineer Associate
 
-- Developed automation processes using Azure Function App and Azure Logic Apps, Azure Service Bus to extract valuable information like ADTs from unstructured emails, text files, HL7 Messages, and subsequently loading into external systems using APIs and data warehouse.
+- Developed automation processes using Azure Function App and Azure Logic Apps, Azure Service Bus to extract valuable information like ADTs from unstructured emails, text files, HL7 Messages, and subsequently load into external systems using APIs and data warehouse.
 - Created REST Web Service API endpoints and Implemented public API security using Azure App Registration.
 - Performed comprehensive data validation and verification using SQL queries.
 - Executed Regression testing, Functionality testing, and Unit testing within the UAT environment.
@@ -89,7 +89,7 @@ Elasticsearch, Terraform
 
 - Completed Azure certifications AZ-900 (Azure Fundamentals), DP-900 (Azure Data Fundamentals), DP-203 (Azure Data Engineer Associate).
 - Completed Databricks Data Engineer Associate Accreditation.
-- Completed “Databricks Lakehouse Fundamentals” and “Databricks Generative AI Fundamentals” badge.
+- Completed “Databricks Lakehouse Fundamentals” and “Databricks Generative AI Fundamentals” badges.
 - Completed AWS Cloud Practitioner Certification Bootcamp.
 
 ## Curriculum Projects
@@ -97,22 +97,22 @@ Elasticsearch, Terraform
 ### KDKCE, Android App (Jan ‘19 to May ‘19)
 
 - Developed an Android app for KDK College of Engineering to manage notices, timetables, exams, and official notifications.
-- Created high-level and low-level design for the Android application.
-- Implemented notification using cloud messaging in FireBase.
+- Created high-level and low-level designs for the Android application.
+- Implemented notifications using cloud messaging in FireBase.
 - Developed backend in Angular using Angular Fire for teachers and management.
 
 ### NSS Web Portal (Jun ‘18 to Dec ‘18)
 
 - Developed the official web portal for NSS KDKCE using Angular.
-- Created high-level and low-level design for the web-based application.
+- Created high-level and low-level designs for the web-based application.
 - Explored cPanel and deployed the website on hosting using File-Zila.
 
-### Web Based Digital Medicine Prescription System (Mar ‘18 to May ‘18)
+### Web-Based Digital Medicine Prescription System (Mar ‘18 to May ‘18)
 
 - Developed a web-based application for digitizing handwritten medicine prescriptions.
-- Created high-level and low-level design for the web-based application.
+- Created high-level and low-level designs for the web-based application.
 - Developed backend in Angular using Angular Fire for teachers and management.
-- Implemented notification using cloud messaging in FireBase.
+- Implemented notifications using cloud messaging in FireBase.
 
 ## Certifications
 
