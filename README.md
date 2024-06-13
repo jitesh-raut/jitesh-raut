@@ -6,7 +6,7 @@
 ## Summary
 
 - Data Engineer Senior Associate at Fulz Technologies Pvt. Ltd.
-- 3+ years of experience in Data Warehousing, ETL, Programming, Web Technologies, Databases, Cloud & Data Integration.
+- 4+ years of experience in Data Warehousing, ETL, Programming, Web Technologies, Databases, Cloud & Data Integration.
 - AWS Certified: Cloud Practitioner, 3x Microsoft certified (Az-900, DP-900, DP-203), Databricks Certified/Accredited.
 - Bachelor of Engineering in Computer Technology from Nagpur University.
 
