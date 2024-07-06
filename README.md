@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:contact@jiteshraut.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jiteshraut/)
-[![www.jiteshraut.me](https://img.shields.io/badge/Email-Contact-red)](https://jiteshraut.me)
+[![www.jiteshraut.me](https://img.shields.io/badge/jiteshraut.me-red)](https://jiteshraut.me)
 
 ## Summary
 
